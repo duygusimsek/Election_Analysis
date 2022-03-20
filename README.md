@@ -35,7 +35,10 @@ For this project, the analysis of election data had been extended by determining
 * Because the candidate column is the third row in the dataset, the second index had been used to get the candidate from each list when the for loop iterate through the row.
 * To be able to catch the unique names in the candidates_option list, the “if” statement with the “not in” operator was used to see if a candidate had been added to the list.
 * Inside the “if” statement, a key from the unique candidates was created and set to zero to begin tracking the candidates’ votes. Then outside the statement, an accumulator was added 
-* For saving the election results to the text file “with open” statement had used and “w” 
+* For saving the election results to the text file “with open” statement had used and “w” mode was added to write data to the file. 
+* Votes percentages for candidates were calculated and printed to the terminal. 
+* For the winning candidate summary, the winner candidate, the winner’s vote, and the percentage were analyzed and printed on the terminal. 
+* The winning candidate’s summary was saved to the text file. 
 
 
 
