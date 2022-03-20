@@ -46,7 +46,7 @@ For this project, the analysis of election data had been extended by determining
 
 The analysis of the election shows that:
 
-- There were 369,771 votes cast in the election 
+- There were 369,771 votes cast in the election between 3 counties.
 
 - The candidates were:
     * Charles Casper Stockham
@@ -63,6 +63,14 @@ The analysis of the election shows that:
 - The winner of the election was:
     * Diana DeGette received 73.8% of the vote and  272,892 votes.
 
+- The counties and county results were:
+    * Denver county had  82.8% of the total vote and 306,055 ballots submitted. 
+           
+    * Jefferson county had 10.5% of the total vote with 38,855 ballots submitted. 
+   
+    * Arapahoe county had 6.7% of the total vote with 24,801 ballots submitted. (add the election result screen shot)
+
+- The largest county turnover is Denver county with 306,055 ballots submitted. 
 
 
 ## Challenge Overview
