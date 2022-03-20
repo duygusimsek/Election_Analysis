@@ -12,7 +12,7 @@ In the previous project, the election audit analysis of a recent local congressi
 * For each candidate, the percentage distribution of votes was calculated.
 * Based on the highest vote the winner of the election was determined. 
 
-### Purpose of this Analyze  
+### Purpose of this Analysis  
 
 For this project, the analysis of election data had been extended by determining the voting information for each county:
 
