@@ -14,7 +14,7 @@ In the previous project, the election audit analysis of a recent local congressi
 
 ### Purpose of Election Audit 
 
-For this project, the analysis of election data had been extended:
+For this project, the analysis of election data had been extended by determining the voting information for each county:
 
 * For each county, the voter turnout was calculated.
 * Out of the total count of votes, each county’s votes of percentages were calculated. 
