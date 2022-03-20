@@ -20,7 +20,22 @@ For this project, the analysis of election data had been extended by determining
 * Out of the total count of votes, each county’s votes of percentages were calculated. 
 * The highest turnout county was determined. 
 
+## Results
 
+### Election-Audit Results
+
+* Folders were navigated on the computer by using the command line to perform the task.
+* The dependencies had been imported to use the Python modules that were needed.
+* To be able to open and read the election data from the CSV file, paths were created.
+* To count the total votes, the variable was created and the counter was set the zero.
+* For making the list of the candidate name, the candidate_options list was written, and to hold the votes of each candidate candidate_votes dictionary was created. 
+* To track the winning candidate’s name, vote, and percentage the variables were written. 
+* With the “with open” statement and the paths that were created, the election data file had opened and read. 
+* The “for loop” was nested under the “with open” statement for each row in the CSV file and an accumulator was written in order to increment by 1 as each row of the file was read.
+* Because the candidate column is the third row in the dataset, the second index had been used to get the candidate from each list when the for loop iterate through the row.
+* To be able to catch the unique names in the candidates_option list, the “if” statement with the “not in” operator was used to see if a candidate had been added to the list.
+* Inside the “if” statement, a key from the unique candidates was created and set to zero to begin tracking the candidates’ votes. Then outside the statement, an accumulator was added 
+* For saving the election results to the text file “with open” statement had used and “w” 
 
 
 
