@@ -1,19 +1,36 @@
 # Election_Analysis
 
-## Project Overview
+## Overview
 
-A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election. 
+### History of the Project
 
-1. Calculate the total number of votes cast.
-2. Get a complete list of candidates who received votes.
-3. Calculate the total number of votes each candidate received.
-4. Calculate the percentage of votes each candidate won.
-5. Determine the winner of the election based on the popular vote. 
+In the previous project, the election audit analysis of a recent local congressional election had been completed.  To analyze the election data programmatically Python programming language (Python 3.10.2) and  Visual Studio development environment (Visual Studio Code, 1.65.2) had used and with the created code:
+
+* The total number of votes cast was calculated.
+* A complete list of the candidate for the election was created.
+* The total number of votes that each candidate received was calculated.
+* For each candidate, the percentage distribution of votes was calculated.
+* Based on the highest vote the winner of the election was determined. 
+
+### Purpose of Election Audit 
+
+For this project, the analysis of election data had been extended:
+
+* For each county, the voter turnout was calculated.
+* Out of the total count of votes, each county’s votes of percentages were calculated. 
+* The highest turnout county was determined. 
+
+
+
+
+
+
+
 
 ## Resources 
 
 - Data Source: Election_results.csv
-- Software: Python 3.6.1, Visual Studio Code, 1.38.1
+- Software: Python 3.10.2, Visual Studio Code, 1.65.2
 
 ## Summary
 
