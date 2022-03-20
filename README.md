@@ -42,25 +42,28 @@ For this project, the analysis of election data had been extended by determining
 
 
 
-
-
-
-
 ## Summary
 
 The analysis of the election shows that:
 
-- There were “x” votes cast in the election 
+- There were 369,771 votes cast in the election 
+
 - The candidates were:
-    * Candidate 1
-    * Candidate 2
-    * Candidate 3
+    * Charles Casper Stockham
+    * Diana DeGette
+    * Raymon Anthony Doane
+
 - The candidate results were:
-    * Candidate 1 received “x%” of the vote and “y” number of votes.
-    * Candidate 2 received “x%” of the vote and “y” number of votes.
-    * Candidate 3 received “x%” of the vote and “y” number of votes.
+    * Charles Casper Stockham received 23.0% of the vote and 85,213 votes.
+
+    * Diana DeGette received 73.8% of the vote and  272,892 votes.
+
+    * Raymon Anthony Doane received 3.1% of the vote and 11,606 votes.
+
 - The winner of the election was:
-    * Candidate  (1,2, or 3), who received “x%” of the vote and “y” number of votes.
+    * Diana DeGette received 73.8% of the vote and  272,892 votes.
+
+
 
 ## Challenge Overview
 
