@@ -27,10 +27,6 @@ For this project, the analysis of election data had been extended:
 
 
 
-## Resources 
-
-- Data Source: Election_results.csv
-- Software: Python 3.10.2, Visual Studio Code, 1.65.2
 
 ## Summary
 
@@ -51,3 +47,8 @@ The analysis of the election shows that:
 ## Challenge Overview
 
 ## Challenge Summary
+
+## Resources 
+
+- Data Source: Election_results.csv
+- Software: Python 3.10.2, Visual Studio Code, 1.65.2
