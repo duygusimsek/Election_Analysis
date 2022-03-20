@@ -20,9 +20,9 @@ For this project, the analysis of election data had been extended by determining
 * Out of the total count of votes, each county’s votes of percentages were calculated. 
 * The highest turnout county was determined. 
 
-## Results
+## Coding
 
-### Election-Audit Results
+### Election-Audit Code Explaining
 
 * Folders were navigated on the computer by using the command line to perform the task.
 * The dependencies had been imported to use the Python modules that were needed.
@@ -35,14 +35,16 @@ For this project, the analysis of election data had been extended by determining
 * Because the candidate column is the third row in the dataset, the second index had been used to get the candidate from each list when the for loop iterate through the row.
 * To be able to catch the unique names in the candidates_option list, the “if” statement with the “not in” operator was used to see if a candidate had been added to the list.
 * Inside the “if” statement, a key from the unique candidates was created and set to zero to begin tracking the candidates’ votes. Then outside the statement, an accumulator was added 
-* For saving the election results to the text file “with open” statement had used and “w” mode was added to write data to the file. 
+* For saving the election results to the text file “with open” statement had been used and “w” mode was added to write data to the file. 
 * Votes percentages for candidates were calculated and printed to the terminal. 
 * For the winning candidate summary, the winner candidate, the winner’s vote, and the percentage were analyzed and printed on the terminal. 
 * The winning candidate’s summary was saved to the text file. 
 
+### Election-Audit-County Code Explaining
 
 
-## Summary
+
+## Election-Audit Results (Candidates and Counties)
 
 The analysis of the election shows that:
 
