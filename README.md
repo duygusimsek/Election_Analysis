@@ -74,10 +74,11 @@ The analysis of the election shows that:
 
 - The largest county turnover is Denver county with 306,055 ballots submitted. 
 
+## Election Audit Summary
 
-## Challenge Overview
+The code that was written for this election analysis, can be modified and used for any election analysis in the future. With additional code lines, vote counts and vote percentages for each candidate, in each district can be determined. 
 
-## Challenge Summary
+Voter registration methods can change the participation of voters and that affects the vote turnouts. With additional datasets and lines to code, analyzing how the voters use their vote, can be added to vote turnout results and help to get us a deeper understanding of the election results. 
 
 ## Resources 
 
