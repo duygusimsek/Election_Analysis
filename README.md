@@ -88,5 +88,5 @@ Voter registration methods can change the participation of voters and that affec
 
 ## Resources 
 
-- Data Source: Election_results.csv
-- Software: Python 3.10.2, Visual Studio Code, 1.65.2
+- Data Source: [Election_results.csv](https://github.com/duygusimsek/Election_Analysis/blob/main/Resources/election_results.csv)
+- Software: [Python 3.10.2](https://www.python.org/downloads), [Visual Studio Code, 1.65.2](https://visualstudio.microsoft.com/downloads/)
