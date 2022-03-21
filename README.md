@@ -45,13 +45,9 @@ For this project, the analysis of election data had been extended by determining
 * For making list for counties, the “county_names” list; to hold the counties’ vote information “county_votes” dictionary was created. 
 * To track the largest county turnout variables were written. 
 * In order to extract the county names from each row from the dataset, the first index had been used and place inside the “for loop”.
-
 * Inside the “if” statement, a key from the unique county was created and set to zero to begin tracking the county names. Then outside the statement, an accumulator was added.
-
 * County vote counts and percentages of votes were calculated and printed to the terminal. 
-
 * For the largest county turnout summary, the county’s name was printed on the terminal. 
-
 * The largest county turnout was written to the text file. 
 
 ## Election-Audit Results (Candidates and Counties)
