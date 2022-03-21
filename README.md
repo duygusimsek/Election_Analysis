@@ -22,13 +22,13 @@ For this project, the analysis of election data had been extended by determining
 
 ## Coding
 
-### Election-Audit Code Explaining
+### Election-Audit Code Explanation
 
 * Folders were navigated on the computer by using the command line to perform the task.
 * The dependencies had been imported to use the Python modules that were needed.
 * To be able to open and read the election data from the CSV file, paths were created.
 * To count the total votes, the variable was created and the counter was set the zero.
-* For making the list of the candidate name, the candidate_options list was written, and to hold the votes of each candidate candidate_votes dictionary was created. 
+* For making the list of the candidate name, the "candidate_options" list was written, and to hold the votes of each candidate "candidate_votes" dictionary was created. 
 * To track the winning candidate’s name, vote, and percentage the variables were written. 
 * With the “with open” statement and the paths that were created, the election data file had opened and read. 
 * The “for loop” was nested under the “with open” statement for each row in the CSV file and an accumulator was written in order to increment by 1 as each row of the file was read.
@@ -40,7 +40,7 @@ For this project, the analysis of election data had been extended by determining
 * For the winning candidate summary, the winner candidate, the winner’s vote, and the percentage were analyzed and printed on the terminal. 
 * The winning candidate’s summary was saved to the text file. 
 
-### Election-Audit-County Code Explaining
+### Election-Audit-County Code Explaination
 
 
 
