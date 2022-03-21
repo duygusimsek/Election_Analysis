@@ -14,7 +14,7 @@ In the previous project, the election audit analysis of a recent local congressi
 
 ### Purpose of this Analysis  
 
-For this project, the analysis of election data had been extended by determining the voting information for each county:
+For this project, the analysis of election data had been extended by determining the voting information for each county with this code [PyPoll_Challenge.py](https://github.com/duygusimsek/Election_Analysis/blob/main/PyPoll_Challenge.py)
 
 * For each county, the voter turnout was calculated.
 * Out of the total count of votes, each county’s votes of percentages were calculated. 
@@ -38,7 +38,7 @@ For this project, the analysis of election data had been extended by determining
 * For saving the election results to the text file “with open” statement had been used and “w” mode was added to write data to the file. 
 * Votes percentages for candidates were calculated and printed to the terminal. 
 * For the winning candidate summary, the winner candidate, the winner’s vote, and the percentage were analyzed and printed on the terminal. 
-* The winning candidate’s summary was saved to the [election_results](https://github.com/duygusimsek/Election_Analysis/blob/main/analysis/election_analysis.txt) text file. 
+* The winning candidate’s summary was saved to the [election_results text file.](https://github.com/duygusimsek/Election_Analysis/blob/main/analysis/election_analysis.txt)
 
 ### Election-Audit-County Code Explaination
 * To analyze the election results by the counties, new lines were added to the previous code.
@@ -48,7 +48,7 @@ For this project, the analysis of election data had been extended by determining
 * Inside the “if” statement, a key from the unique county was created and set to zero to begin tracking the county names. Then outside the statement, an accumulator was added.
 * County vote counts and percentages of votes were calculated and printed to the terminal. 
 * For the largest county turnout summary, the county’s name was printed on the terminal. 
-* The largest county turnout was written to the [election_results](https://github.com/duygusimsek/Election_Analysis/blob/main/analysis/election_analysis.txt) text file. 
+* The largest county turnout was written to the [election_results text file.](https://github.com/duygusimsek/Election_Analysis/blob/main/analysis/election_analysis.txt)  
 
 ## Election-Audit Results (Candidates and Counties)
 
