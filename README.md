@@ -38,7 +38,7 @@ For this project, the analysis of election data had been extended by determining
 * For saving the election results to the text file “with open” statement had been used and “w” mode was added to write data to the file. 
 * Votes percentages for candidates were calculated and printed to the terminal. 
 * For the winning candidate summary, the winner candidate, the winner’s vote, and the percentage were analyzed and printed on the terminal. 
-* The winning candidate’s summary was saved to the text file. 
+* The winning candidate’s summary was saved to the [election_results](https://github.com/duygusimsek/Election_Analysis/blob/main/analysis/election_analysis.txt) text file. 
 
 ### Election-Audit-County Code Explaination
 * To analyze the election results by the counties, new lines were added to the previous code.
@@ -48,7 +48,7 @@ For this project, the analysis of election data had been extended by determining
 * Inside the “if” statement, a key from the unique county was created and set to zero to begin tracking the county names. Then outside the statement, an accumulator was added.
 * County vote counts and percentages of votes were calculated and printed to the terminal. 
 * For the largest county turnout summary, the county’s name was printed on the terminal. 
-* The largest county turnout was written to the text file. 
+* The largest county turnout was written to the [election_results](https://github.com/duygusimsek/Election_Analysis/blob/main/analysis/election_analysis.txt) text file. 
 
 ## Election-Audit Results (Candidates and Counties)
 
@@ -76,10 +76,9 @@ The analysis of the election shows that:
            
     * Jefferson county had 10.5% of the total vote with 38,855 ballots submitted. 
    
-    * Arapahoe county had 6.7% of the total vote with 24,801 ballots submitted. (add the election result screen shot)
+    * Arapahoe county had 6.7% of the total vote with 24,801 ballots submitted. 
 
-- The largest county turnover is Denver county with 306,055 ballots submitted. 
-
+- The largest county turnover is Denver county with 306,055 ballots submitted. [Screenshoot of Election Result](https://github.com/duygusimsek/Election_Analysis/blob/main/Election_Results_Command_Line.png)
 ## Election Audit Summary
 
 The code that was written for this election analysis, can be modified and used for any election analysis in the future. With additional code lines, vote counts and vote percentages for each candidate, in each district can be determined. 
